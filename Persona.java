@@ -5,6 +5,8 @@ public class Persona {
 	private String apellido;
 	private Integer edad;
 	private String RFC;
+	private String email;
+	
 	public String getNombre() {
 		return nombre;
 	}
